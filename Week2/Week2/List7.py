@@ -10,3 +10,4 @@ class List7:
 lst = [1, 2, 3, 53, 332]
 obj = List7()
 obj.Copy(lst)
+
