@@ -46,6 +46,6 @@ obj.disp()
 # for i in range(NoOfEle):
 #     ele = int(input("enter element"))
 #     arr1.append(ele)
-#
+# 
 # for i in range(NoOfEle):
 #     print(arr1[i])
