@@ -7,3 +7,4 @@ class List9:
     lst2 = [1, 2, 765, 2423, 46]
     obj=utility.User.Compare(lst1, lst2)
     print(obj)
+    
