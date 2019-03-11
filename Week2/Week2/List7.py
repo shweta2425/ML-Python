@@ -1,5 +1,6 @@
 # Write a Python program to clone or copy a list.
 class List7:
+    
 
     def Copy(self, lst):
         cpy = lst.copy()
