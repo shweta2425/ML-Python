@@ -15,3 +15,4 @@ class List16:
 lst = ['zzz', 'my', 'shweta', 'abc', 'aa', 'dfdg', 'werewr']
 obj = List16()
 obj.SplitList(lst)
+
