@@ -3,6 +3,7 @@
 # Expected Output : ['Green', 'White', 'Black']
 
 
+
 class List10:
 
     def Delete(self, lst):
