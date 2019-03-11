@@ -5,6 +5,7 @@
 # 	Expected Result : {0: 10, 1: 20, 2: 30}
 # 3. Write a Python script to concatenate following dictionaries to create a new one.
 #
+
 # 	Sample Dictionary :
 # 	dic1={1:10, 2:20}
 # 	dic2={3:30, 4:40}
