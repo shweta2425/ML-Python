@@ -7,3 +7,5 @@ class List12:
     lst2 = [32, 2, 4, 65, 2, 1]
     obj = utility.User.Diff(lst1, lst2)
     print(obj)
+
+    
