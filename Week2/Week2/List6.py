@@ -1,4 +1,5 @@
 # Write a Python program to remove duplicates from a list
+
 class List6:
     def Duplicate(self, lst):
         mylst = list(dict.fromkeys(lst))
