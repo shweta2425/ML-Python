@@ -8,3 +8,17 @@ from Week2.Utilities import utility
 
 class List5:
     lst = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+class List5:
+
+    @staticmethod
+    def last(n):
+        return n[-1]
+
+    def sort(self, lst):
+        return sorted(lst, key=self.last)
+
+
+lst = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+obj = List5()
+result = obj.sort(lst)
+print(result)
