@@ -1,4 +1,5 @@
 # Write a Python program to multiplies all the items in a list.
+
 class List2:
 
     def Multiplication(self, lst):
