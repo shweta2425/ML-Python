@@ -12,3 +12,4 @@ class List1:
 lst = [1,2, 3, 4, 5]
 obj = List1()
 obj.Sum(lst)
+
