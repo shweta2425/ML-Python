@@ -13,3 +13,4 @@ lst = [10, 37, 483, 88]
 print("smallest", min(lst))
 obj = List3()
 obj.findsmall(lst)
+
