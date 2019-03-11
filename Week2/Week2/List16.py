@@ -1,4 +1,5 @@
 # Write a Python program to split a list based on first character of word.
+
 from Week2.Utilities import utility
 
 
