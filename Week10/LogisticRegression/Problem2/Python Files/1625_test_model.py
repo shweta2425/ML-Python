@@ -30,7 +30,7 @@ y_test=df.iloc[:,8].values
 
 # In[10]:
 
-
+ 
 # reading the pickle file
 import pickle
 fileObject = open('train_data.pkl','rb')
