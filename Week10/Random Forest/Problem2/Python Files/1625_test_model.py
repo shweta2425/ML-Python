@@ -39,7 +39,7 @@ sc=pickle.load(fileObject)
 
 
 # In[5]:
-
+ 
 
 x_test=pd.DataFrame(x_test)
 x_test.shape
