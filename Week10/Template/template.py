@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVR
 import warnings
-# warnings.filterwarnings('ignore')
+# warnings.filterwarnings('ignore') 
 from sklearn.metrics import *
 import pickle
 import csv
