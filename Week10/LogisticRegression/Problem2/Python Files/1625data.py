@@ -45,7 +45,7 @@ df.describe()
 
 # In[6]:
 
-
+ 
 # checks for null values
 df.isnull().sum()
 
