@@ -33,7 +33,7 @@ class Template:
         # splitting data into train & test dataset
         train,test=train_test_split(df,test_size=size)
         return train,test 
-    
+     
     def save_csv(self,data,file_name):
         # saving datasets into csv filesS
         data.to_csv(file_name,index=False,encoding='utf-8')
