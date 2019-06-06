@@ -5,7 +5,7 @@ RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,Num
 6075,15802570,Dyer,811,France,Female,45,5,0.0,2,1,1,146123.19,0
 1502,15801548,Buckland,661,France,Female,31,7,144162.3,2,1,1,14490.79,0
 9794,15772363,Hilton,772,Germany,Female,42,0,101979.16,1,1,0,90928.48,0
-9067,15725509,Otutodilinna,662,Germany,Male,30,5,115286.68,2,1,1,149587.92,0
+9067,15725509,Otutodilinna,662,Germany,Male,30,5,115286.68,2,1,1,149587.92,0 
 6461,15688395,Lane,582,France,Male,29,4,0.0,2,0,0,156153.27,0
 7791,15607176,Kang,674,France,Male,22,3,0.0,1,1,1,173940.59,0
 2125,15603851,Galkin,704,France,Male,32,7,127785.17,4,0,0,184464.7,1
